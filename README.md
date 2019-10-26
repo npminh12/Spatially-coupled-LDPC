@@ -7,4 +7,4 @@ Below is a plot of the EXIT curve vs the erasure rate, along with the BP and MAP
 
 ![](/spatiallycoupledLDPC.jpg)
 
-The SC LDPC codes move away from the BP threshold of the regular ensemble and approach closely to the MAP threshold. In the limit where M, L and (l,r) tend to infinity in that order, we can approach the Shannon capacity on BEC. The paper Kudekar et al gave a proof of this fact.
+The SC LDPC codes move away from the BP threshold of the regular ensemble and approach closely to the MAP threshold. The MAP threshold is very close to 0.5, which is the Shannon limit on BEC for any code of rate 0.5. In the limit where M, L and (l,r) tend to infinity in that order, we can approach the Shannon capacity on BEC. The paper Kudekar et al gave a proof of this fact.
